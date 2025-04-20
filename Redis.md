@@ -47,3 +47,9 @@
 
 ![image](https://github.com/user-attachments/assets/c53b8143-aea2-4c75-89f5-685dbca0b395)
 
+
+Тоже самое через Python (использовал key6)
+
+![image](https://github.com/user-attachments/assets/5ddeebd5-7f74-4484-bfc7-5f94d66371f5)
+
+
